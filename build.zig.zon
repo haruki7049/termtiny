@@ -1,8 +1,11 @@
 .{
-    .name = "termtiny",
+    .name = .termtity,
     .version = "0.0.0",
-    .minimum_zig_version = "0.13.0",
+    .minimum_zig_version = "0.15.2",
+    .fingerprint = 0x722f8e79749d5fbc,
+
     .dependencies = .{},
+
     .paths = .{
         "build.zig",
         "build.zig.zon",
